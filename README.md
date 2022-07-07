@@ -2,7 +2,8 @@
 
 ## INTRODUCTION TO ARDUINO & IDE
 
-## AIM: To familiarize the operation of Arduino uno and understand the operation of IDE 
+## AIM: 
+To familiarize the operation of Arduino uno and understand the operation of IDE 
 ## EQUIPMENT/ COMPONENTS REQUIRED:
 	Hardware: Arduino uno 
 	Software: Arduino IDE 
